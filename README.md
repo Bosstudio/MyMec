@@ -18,8 +18,8 @@ New to MyMec? The **[guide](GUIDE.md)** walks through every screen.
   coolant, transmission, spark plugs, belts, differential and transfer case
   fluid, wipers, alignment, and inspections) at the sooner end of common
   intervals. Axle fluids start paused on vehicles that may not have them.
-  Every interval is yours to change, you can add your own services, and
-  you can delete any service you don't need.
+  You can change any interval, add your own services, and delete any
+  service you don't need.
 - **Knows when things are due.** Each service is due by date or mileage,
   whichever comes first. MyMec learns how much you drive from your odometer
   readings, so it can tell when a service is coming up between readings.
@@ -30,8 +30,8 @@ New to MyMec? The **[guide](GUIDE.md)** walks through every screen.
   mileage, cost, shop or DIY, parts, labor, and notes. History is grouped by
   year, with totals and a 12-month activity view, and filters by service and
   date.
-- **PDF service records.** Export a vehicle's history as a clean PDF to
-  print, email, or hand over when you sell. You choose what it includes:
+- **PDF service records.** Export a vehicle's history as a PDF to print,
+  email, or hand over when you sell. You choose what it includes:
   odometer, cost, shop, notes, parts, totals, and the current service plan,
   and can preview every page before you save or share it.
 - **Miles or kilometers,** per vehicle.

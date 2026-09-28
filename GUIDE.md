@@ -41,8 +41,8 @@ tour and replay it any time from **Settings › Replay welcome tour**.
 </p>
 
 Open the **Add** tab. Under **Vehicle type**, pick the model year, then the
-make and model from the built-in catalog (it works offline). Under **Local
-details**, choose miles or kilometers and, if you like, add the trim, a
+make and model from the built-in catalog (it works offline). Under
+**Details**, choose miles or kilometers and, if you like, add the trim, a
 nickname, and the VIN. Then open the vehicle and enter its current odometer
 reading with the pencil. **Edit vehicle** (the ••• menu) changes the details
 later, including how the vehicle looks: its drawing and paint.
@@ -59,7 +59,7 @@ yours does.
 </p>
 
 The garage lists every vehicle with its mileage and how much it is driven.
-Instead of sentences, each card shows **severity dots**:
+Each card shows **colored dots** for what is due:
 
 | Dot | Meaning |
 |---|---|
@@ -114,7 +114,7 @@ interval. From here you can:
 - **Log service** to mark it done, with the date, odometer, cost, and the
   shop (or DIY), plus parts, labor, and notes.
 - **Log past** to add a visit you did before.
-- **Cadence** to change the interval in months and miles, and how early to
+- **Schedule** to change the interval in months and miles, and how early to
   be reminded.
 - **Snooze** to be reminded later, or **Skip** a cycle you don't need.
 - **Pause** a service you don't want tracked, or delete it.
@@ -139,8 +139,8 @@ it, or use **Add history** to enter older records.
   <img src="guide/pdf.webp" alt="The PDF export options and an exported page" width="560">
 </p>
 
-Tap **Export PDF** to export what the filter shows as a clean service record,
-to print, email, or hand over when you sell. Choose what each entry includes
+Tap **Export PDF** to export what the filter shows as a service record to
+print, email, or hand over when you sell. Choose what each entry includes
 (odometer, cost, shop or DIY, notes, parts and labor) and which sections to
 add (VIN and odometer, totals by service, and the current service plan).
 **Preview** shows every page as it will print (pinch to zoom); then **Save**
@@ -165,8 +165,10 @@ about. Use **Settings › Send a test reminder** to check they come through.
 
 Open **Settings** from the garage (top right):
 
-- **Appearance:** System, Light, or Dark; the **liquid glass** effect; and
-  whether to skip the launch animation.
+- **Appearance:** System, Light, or Dark. Android and iOS 18–25 also offer a
+  **liquid glass** setting for the app's custom surfaces. On iOS 26 and later,
+  Apple controls follow the system appearance and accessibility settings, so
+  there is no separate glass switch.
 - **Reminders:** notification status, and a test reminder.
 - **Cloud backup** (optional): keeps your garage in sync across your devices
   with a 16-digit account code. Your garage is encrypted on your phone before
@@ -190,7 +192,7 @@ On Android, the app picks up your wallpaper's colors.
 </p>
 
 Removing a vehicle moves it to the **Trash** for 3 days, with its reminders
-turned off. Restore it from there, or delete it for good right away.
+turned off. Restore it from there, or delete it permanently right away.
 
 ## Tips
 
